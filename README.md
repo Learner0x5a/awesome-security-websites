@@ -14,6 +14,9 @@
 ## 黑苹果
 [黑果小兵](http://blog.daliansky.net/)
 
+## Crypto
+[CyberChef](https://gchq.github.io/CyberChef/)
+
 ## 杂项
 [Compiler Explorer](https://godbolt.org/)
 
