@@ -34,4 +34,9 @@
 
 [AFL](https://afl-1.readthedocs.io/en/latest/)
 
+[exploit-db](https://www.exploit-db.com/)
 
+[sec-deadlines](https://sec-deadlines.github.io/)
+
+## Malware
+[Virus Total](https://www.virustotal.com/gui/)
