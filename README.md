@@ -1,4 +1,4 @@
-# awesome-websites
+# awesome-security-websites
 
 ## 翻译
 [deepl](https://www.deepl.com/translator)
