@@ -5,6 +5,7 @@
 
 ## IDA
 [IDA Python wiki](https://magiclantern.fandom.com/wiki/IDAPython)
+
 [IDA Book](http://www.idabook.com/)
 
 ## 社工
