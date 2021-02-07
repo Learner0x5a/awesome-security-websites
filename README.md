@@ -5,6 +5,7 @@
 
 ## IDA
 [IDA Python wiki](https://magiclantern.fandom.com/wiki/IDAPython)
+
 [IDA Book](http://www.idabook.com/)
 
 ## 社工
@@ -15,15 +16,22 @@
 
 ## Crypto
 [somd5](https://www.somd5.com/)
+
 [id0-rsa](https://id0-rsa.pub/)
+
 [cryptohack](https://cryptohack.org/)
+
 [cryptopals](https://cryptopals.com/)
+
 [Substitution Cipher](https://quipqiup.com/)
+
 [Cocalc](https://cocalc.com/app)
 
 ## 杂项
 [Compiler Explorer](https://godbolt.org/)
+
 [CyberChef](https://gchq.github.io/CyberChef/)
+
 [AFL](https://afl-1.readthedocs.io/en/latest/)
 
 
