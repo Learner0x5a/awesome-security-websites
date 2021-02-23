@@ -40,3 +40,9 @@
 
 ## Malware
 [Virus Total](https://www.virustotal.com/gui/)
+
+## mac softwares
+
+[Xclientinfo](https://xclient.info/)
+[未来mac](https://mac.orsoon.com/)
+
