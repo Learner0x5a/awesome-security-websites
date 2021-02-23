@@ -27,6 +27,8 @@
 
 [Cocalc](https://cocalc.com/app)
 
+[CrackStation](https://crackstation.net/)
+
 ## 杂项
 [Compiler Explorer](https://godbolt.org/)
 
