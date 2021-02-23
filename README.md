@@ -11,6 +11,8 @@
 ## 社工
 [密码撞库检查](https://haveibeenpwned.com/)
 
+[CrackStation](https://crackstation.net/)
+
 ## 黑苹果
 [黑果小兵](http://blog.daliansky.net/)
 
@@ -26,8 +28,6 @@
 [Substitution Cipher](https://quipqiup.com/)
 
 [Cocalc](https://cocalc.com/app)
-
-[CrackStation](https://crackstation.net/)
 
 ## 杂项
 [Compiler Explorer](https://godbolt.org/)
