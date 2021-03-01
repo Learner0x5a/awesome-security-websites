@@ -29,6 +29,9 @@
 
 [Cocalc](https://cocalc.com/app)
 
+## Kernel
+[Linux kernel map](https://makelinux.github.io/kernel/map/)
+
 ## 杂项
 [Compiler Explorer](https://godbolt.org/)
 
@@ -50,4 +53,6 @@
 [Xclientinfo](https://xclient.info/)
 
 [未来mac](https://mac.orsoon.com/)
+
+
 
